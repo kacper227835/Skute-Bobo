@@ -1,0 +1,7 @@
+{
+    "app-name": "Launcher",
+    "settings": {
+        "message": "Witamy w nowej wersji anticheata",
+        "active": true
+    },
+}
