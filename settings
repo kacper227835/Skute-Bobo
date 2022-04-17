@@ -1,10 +1,11 @@
 {
     "settings": {
         "active": true,
-        "test": false
+        "version": 1
     },
-    "gui": {
-        "welcome_message": "anti-cheat (x86)",
-        "display_name": "anti-cheat"
+    "welcomeBox": {
+        "title": "anti-cheat (x86)",
+        "message": "Currently anticheat is disabled because a new version is being developed",
+        
     }
 }
