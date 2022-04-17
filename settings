@@ -1,7 +1,11 @@
 {
-    "app-name": "Launcher",
+    "name": "Launcher",
     "settings": {
-        "message": "Witamy w nowej wersji anticheata",
-        "active": true
+        "active": true,
+        "test": false
     },
+    "interaction": {
+        "welcome_message": "anti-cheat (x86)",
+        "test12": true
+    }
 }
