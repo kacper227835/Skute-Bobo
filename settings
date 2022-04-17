@@ -1,11 +1,10 @@
 {
-    "name": "Launcher",
     "settings": {
         "active": true,
         "test": false
     },
-    "interaction": {
+    "gui": {
         "welcome_message": "anti-cheat (x86)",
-        "test12": true
+        "display_name": "anti-cheat"
     }
 }
