@@ -5,7 +5,6 @@
     },
     "welcomeBox": {
         "title": "anti-cheat (x86)",
-        "message": "Currently anticheat is disabled because a new version is being developed",
-        
+        "message": "Currently anticheat is disabled because a new version is being developed"
     }
 }
